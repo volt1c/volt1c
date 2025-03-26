@@ -123,13 +123,16 @@ I'm a software developer with a passion for programming. I managed to gain exper
     <img width="40" src="https://mui.com/static/logo.png" alt="MUI logo">
   </a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/">
-    <img src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" width="40" alt="Flask"/>
+    <img src="https://flask.palletsprojects.com/en/stable/_static/shortcut-icon.png" width="40" alt="Flask"/>
   </a>
   <a href="https://insomnia.rest/" title="Insomnia">
     <img width="40" src="https://insomnia.rest/favicon.ico" alt="Insomnia">
   </a>
   <a href="https://www.postman.com/" title="Postman">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" alt="Insomnia">
+  </a>
+  <a href="https://www.postman.com/" title="Nginx">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" alt="nginx">
   </a>
   <!--a href="" title="">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt="">
